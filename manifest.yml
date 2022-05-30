@@ -1,5 +1,5 @@
 ---
 applications:
- - name: simple-toolchain-20220529213505769
+ - name: movies-reviews-database-169
    random-route: true
    memory: 128M
